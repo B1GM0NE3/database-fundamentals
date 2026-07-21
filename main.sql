@@ -7,7 +7,7 @@ create table cities (
 
 insert into cities (name, country, population) values 
     ('Tokyo',  'JP', 13960000),
-    ('Osaka',  'JP', 2691000),
-    ('Berlin', 'DE', 3645000);
+    ('Paris',  'JP', 2691000),
+    ('Cairo', 'DE', 3645000);
 
 select "name" from cities
