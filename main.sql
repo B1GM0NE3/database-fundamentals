@@ -1,1 +1,1 @@
-select "name" from cities 
+select name from cities 
