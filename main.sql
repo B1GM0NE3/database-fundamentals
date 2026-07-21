@@ -1,1 +1,1 @@
-SELECT 'Hello, ' || 'SQL!'
+select "name" from cities 
